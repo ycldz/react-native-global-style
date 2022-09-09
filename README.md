@@ -1,1 +1,1 @@
-# react-native-global-style
+<h1>Getting Started</h1>
